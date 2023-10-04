@@ -1,0 +1,4 @@
+{
+    "name": "bpkg-json-min-example",
+    "install": "install -b example_cmd.sh ${PREFIX:-$HOME/.local/}/bin/excommand"
+}
